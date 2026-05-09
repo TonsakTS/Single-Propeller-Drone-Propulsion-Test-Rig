@@ -6,3 +6,6 @@ Testing high-thrust propellers is expensive, dangerous, and difficult to do in a
 This work focuses on the design and development of a single-propeller test rig. The setup is designed to eliminate the asymmetric forces that typically interfere with single-blade testing. We will measure key performance parameters, including maximum power consumption, peak RPM, motor vibration, and simulated altitude to analyze the motor's behavior and overall performance.
 
 ![image alt](https://github.com/TonsakTS/Single-Propeller-Drone-Propulsion-Test-Rig/blob/80e1d457c095fcd8dea47b35f817db8794470591/Image/Entire%20CAD.png)
+
+![image alt](https://github.com/TonsakTS/Single-Propeller-Drone-Propulsion-Test-Rig/blob/f2ceb49482574743feb7c2212eb4f7b52c0abd77/Image/Test%20Flight.png)
+
