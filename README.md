@@ -4,3 +4,5 @@ Unmanned Aerial Vehicles (UAVs) continue to gain popularity in diverse roles, pa
 Testing high-thrust propellers is expensive, dangerous, and difficult to do in actual flight, especially when trying to simulate specific altitudes. Because of this, we chose to test a single propeller on a stationary rig. However, a single motor creates high torque and vibration that would normally be balanced out by other motors on a real drone. To fix this, our setup uses a counterweight system. This reduces the twisting forces (moments) and minimizes vibration, allowing the rig to simulate smooth flight conditions.
 
 This work focuses on the design and development of a single-propeller test rig. The setup is designed to eliminate the asymmetric forces that typically interfere with single-blade testing. We will measure key performance parameters, including maximum power consumption, peak RPM, motor vibration, and simulated altitude to analyze the motor's behavior and overall performance.
+
+![image alt](https://github.com/TonsakTS/Single-Propeller-Drone-Propulsion-Test-Rig/blob/80e1d457c095fcd8dea47b35f817db8794470591/Image/Entire%20CAD.png)
